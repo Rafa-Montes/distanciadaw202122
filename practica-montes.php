@@ -35,6 +35,7 @@
 	}
 	
 		
-	echo "La suma es ".Aritmetica::sumar(4,6),PHP_EOL;
-	echo "La resta es ".Aritmetica::restar(3,2),PHP_EOL;
+	
+	echo "La resta es ".Aritmetica::restar(3,1),PHP_EOL;
+        echo "La suma es ".Aritmetica::sumar(7,2),PHP_EOL;
 ?>
